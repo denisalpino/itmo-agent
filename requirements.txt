@@ -1,0 +1,12 @@
+fastapi
+aiologger[aiofiles]
+pip-chill
+uvicorn
+gunicorn
+langchain
+bs4
+aiohttp
+python-dotenv
+langchain-community
+grpcio
+yandexcloud
